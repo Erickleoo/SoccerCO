@@ -3,6 +3,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
+<a href="https://erickleoo.github.io/SoccerCO/">Live Project</a>
 
 <br>
 
